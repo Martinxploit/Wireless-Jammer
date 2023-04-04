@@ -20,7 +20,7 @@ python3 wifijammer.py --help
 ```
 
 ## Oprating System
-Kali Linux
+# KALI LINUX
 
 ### Arguments
 ```
