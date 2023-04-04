@@ -1,4 +1,4 @@
-# wifijammer
+# Wireless Jammer
 Disconnect Nearby Access Points and Stations by forging and Transmitting Deauthentication Frames. Built on top of scapy and utilizes channel hopping and forging frames from a single interface. Works with **python 3**.
 
 ## Installation:
@@ -18,6 +18,9 @@ $ python3 wifijammer.py --help
 python3 [scriptname] [argument...]
 python3 wifijammer.py --help
 ```
+
+## Oprating System
+Kali Linux
 
 ### Arguments
 ```
@@ -60,6 +63,5 @@ $ python3 wifijammer.py --interface wlan1mon --channel 6 --aggressive
 ### Disclaimer
 This tool is only intended for testing purposes and should be used where there is allowance of having de-authentication tests. The user should have prior consent for testing against the target. The author will not be held responsible regarding any case of misuse. 
 
-### Author
-Twitter: <a href="//twitter.com/hash3liZer">hash3liZer</a><br>
-Email  : <a href="mailto:admin@shellvoide.com">admin@shellvoide.com</a>
+### Contact
+Instagram: <a href="https://www.instagram.com/bunty0020">bunty0020</a><br>
